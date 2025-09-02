@@ -1,0 +1,12 @@
+[
+    ["This movie is fantastic! I really love it.", "positive"],
+    ["The plot was terrible and the actors were bad.", "negative"],
+    ["Great direction and superb performances.", "positive"],
+    ["It was a waste of time, boring and dull.", "negative"],
+    ["The cinematography is stunning and the score is beautiful.", "positive"],
+    ["Poor script, awful dialogue, and weak characters.", "negative"],
+    ["I highly recommend this film, it's a masterpiece.", "positive"],
+    ["I hated every minute of it, completely unoriginal.", "negative"],
+    ["A heartwarming story with brilliant acting.", "positive"],
+    ["The worst movie I’ve ever seen, a total disaster.", "negative"]
+]
